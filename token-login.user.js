@@ -5,6 +5,7 @@
 // @description  Adds a button to login with a token.
 // @author       @KaueTech - Kauê#0220
 // @match        https://discord.com/login*
+// @icon         https://www.google.com/s2/favicons?domain=discord.com
 // @grant        none
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // @run-at        document-idle
