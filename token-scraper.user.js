@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Token Scraper | Ctrl + Shift + ]
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/KaueTech/discord-userscripts
 // @version      0.1
-// @description  Um script para procurar seu token do discord apertando Ctrl + Shift + ].
+// @description  Get your discord token by pressing Ctrl + Shift + ]
 // @author       @KaueTech - Kauê#0220
 // @match        https://discord.com/*
 // @icon         https://www.google.com/s2/favicons?domain=discord.com
