@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Token Scraper - Ctrl + Shift + ]
+// @name         Token Scraper | Ctrl + Shift + ]
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Um script para procurar seu token do discord apertando Ctrl + Shift + ].
